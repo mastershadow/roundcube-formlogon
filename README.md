@@ -1,7 +1,7 @@
 # roundcube-formlogon
 Login posting data via form POST in roundcube
 
-## Fixing CRSF after the first login
+## Fixing CSRF after the first login
 
 Open **program/lib/Roundcube/rcube.php**
 
